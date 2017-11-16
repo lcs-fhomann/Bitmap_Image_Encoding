@@ -34,8 +34,8 @@ for character in encodedBitmap {
 
 // I notice that the syntax for the loop is new.
 // For charater in something else.
-// i also know that the loop runs a different number of times each time I run the playground.
-//that i'm able to inspect or work with each individual character in the string
+// I also know that the loop runs a different number of times each time I run the playground.
+//That i'm able to inspect or work with each individual character in the string
 /*:
  Now, **remember to commit and push your work**.
  */
